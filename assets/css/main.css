@@ -166,7 +166,7 @@ body {
 .convidados__card img{
   width: 100px;
   border-radius: 50px;
-  transition: 1s;
+  transition: 3s;
 }
 
 .convidados__card img:hover{
